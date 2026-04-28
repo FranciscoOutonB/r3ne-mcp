@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "r3ne-mcp",
+  "name": "r3ne-app",
   "description": "R3NE — node-based real-time VFX engine for macOS. MCP server + Claude skill that drive the R3NE.app graph.",
   "owner": {
     "name": "Francisco Outón"

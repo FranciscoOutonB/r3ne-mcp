@@ -13,14 +13,14 @@ Drive [R3NE](https://r3ne.app) (a node-based real-time VFX engine for macOS) fro
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add FranciscoOutonB/r3ne-mcp
-/plugin install r3ne@r3ne-mcp
+/plugin marketplace add FranciscoOutonB/r3ne-app
+/plugin install r3ne@r3ne-app
 ```
 
 Or directly from a Git URL:
 
 ```
-/plugin marketplace add https://github.com/FranciscoOutonB/r3ne-mcp.git
+/plugin marketplace add https://github.com/FranciscoOutonB/r3ne-app.git
 ```
 
 After install, restart Claude Code. Verify with:
@@ -61,7 +61,7 @@ Claude should call `mcp__r3ne__health` and respond with the running app's versio
 ## Layout
 
 ```
-r3ne-mcp/
+r3ne-app/
 ├── .claude-plugin/
 │   ├── marketplace.json     # marketplace manifest (entry point for /plugin marketplace add)
 │   └── plugin.json          # plugin manifest
