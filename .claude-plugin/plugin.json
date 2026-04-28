@@ -1,0 +1,12 @@
+{
+  "name": "r3ne",
+  "description": "Build VJ compositions, shaders, and 3D scenes in R3NE. Bundles the r3ne MCP server (talks to the running R3NE.app on localhost:19780) plus a skill that teaches Claude how to drive it.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Francisco Outón",
+    "url": "https://r3ne.app"
+  },
+  "homepage": "https://r3ne.app",
+  "license": "MIT",
+  "keywords": ["vj", "metal", "shader", "node-graph", "macos", "3d", "creative-coding"]
+}
