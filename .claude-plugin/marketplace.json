@@ -10,7 +10,7 @@
       "name": "r3ne",
       "description": "Talk to R3NE.app from Claude. Build shaders, wire 3D scenes, edit nodes — all by sentence. Bundles the r3ne MCP server (talks to the running app on localhost:19780) plus a skill that teaches the engine's mental model.",
       "category": "development",
-      "source": ".",
+      "source": "./",
       "homepage": "https://r3ne.app",
       "keywords": ["vj", "metal", "shader", "3d", "creative-coding", "macos"]
     }
